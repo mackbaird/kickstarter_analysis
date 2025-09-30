@@ -81,7 +81,7 @@ I wrote several SQL queries to explore trends and business questions:
 - **Average Backers:** Successful projects tend to have roughly 264 backers on average.
 - **Pledge per Backer:** Technology saw the highest pledge per backer, at about $283 per backer. More than double the second category of design, which has about $86 per backer.
 - **Best Month to Launch:** November has the most successful projects while August tends to have the most failed projects.
-- **Overfunded Projects:** Fashion, Design and Technoloy were the top 3 overfunded categories.
+- **Overfunded Projects:** Fashion, Design and Technology were the top 3 overfunded categories.
 
 ---
 
